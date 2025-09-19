@@ -1,3 +1,5 @@
+env/
+.idea/workspace.xml
 .env
 __pycache__/
 *.pyc
